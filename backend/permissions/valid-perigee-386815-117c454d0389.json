@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valid-perigee-386815",
+  "private_key_id": "117c454d0389ab5cff5dc257979f4612b2881245",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWEHsSbCjK7zi+\nDxSffEW881qNkoZNK4og6CRi/gttgSLvzANyeLTYQreujdaJP67RHRi/qjBQFOB7\nc9wOIVT56Wer3hv48/AK4yWkQo0yRDbPEsMtSjM/Q/HOn7YCrZKr6zjjBR7RNCm+\nTXYCVaXAum84isnm8WXI1RrSShrbLBPtYJkJZ6S3LLMxDVTYn/o4fddghwSNQBXA\nVhQ8GRZ6nP8n258ix6RnaayTZcHmpJYIQv1CPltQvyLKBUMKj1Kf1aum1o8FVBvQ\ngP3X94/ovan04QkidD7h3gia6ZtI3PgOWrCbHXBKdOVQ9c7AmWKapX4j4i8Tz2GM\ns9QJ/u+DAgMBAAECggEAXgXAIN/b7QK04Bn8m254rR0QZYV5stSQZ5K/RLHD8DWb\n1Eq+Kt3kxOZNCoDnPcJ4dQX8NFc6wDnjPaYufhBa5CgGLqGwlKEEiqupgWPv46e9\nkSdzDeX862lbAL/6sGNvvE5lXqWFmyr3uMwKLM1Ur/nTVzjypJrb86HSlZISCLid\npa8QKuAuPuJlU3U/FSIxquoKlJqHFdg5AHpdEKZFwpJAJ7aJe6vqWFRN79057IF6\nAuLIDDBC3IMWKUKIIFYrX9qW52nc+KAUf36WG5pZq1Gjv268/7Sdl0GXp8iJ9a03\nM05RJBgLOHErh36mKpcUMVVlZXUBFrUypIPGNBjjPQKBgQD+7ucTmnUhUaGVZej0\nigWYZ0sW9/3hooUnT7/P/omYs31yZUKBElIX3s7Hz1UodSjX2koPghh5NqUYJJ7i\nbL2SA/wCY1o1zyrrzu13CcOeoCF87KZOgXvux74kGV30rPZ8zNQ/qsm5Igin4pfD\n5EGm6VHWB8uUorzkXAK6HTe6zQKBgQDW9cweo9QgxMW3pCO8Ss2Zy6bAlJnyl2xd\nRGNdcJC+/6vvHwDABiOq5vwNIH39W7MwPPx5Ku6tXKNOAX0vejQG0lumFrJFHfq3\n9VjelfUJjVgZ3cXJS2ES+YGr58J7D4oJOHeUsN8G+dqKSmM9OeYT8BmN5LSrTBPl\nP+VP8cHzjwKBgACLahr0nYNwtTOogBLlqJVmwxZNeVFeE4K9/N7o4EpfN8lixf2Y\nmGxMoYxzuO7ZMTkk0juuP3ci0r92dJBvQwho0cT/iVXMF39hdchnUO+pz+iAaOqK\nBEXCT3msRDMdm3kwxtNL/hpTJEmXhlN4zVsZ7H7UjW7H2jdyqt7S6SeRAoGAIFZb\nvaRBrihL4iN0KMhMA73qOQBh5Ge5KpK2LAFaFRGbSN6uGzUROo2DD2p66ZlY7IHQ\nLV4zB6tu+bYpofHNT9VnaiXx7YnkBLaJBvsiIKy9uy5sqaqIUPVt93FnBWJCDr8K\n5jhxZLhDkxg7s6M5JHizL3BfaYGJYKxrD8q7tasCgYEA1HA+9G85JNKTY33iDgB4\ncsvvgQx9boX9Hse7XbjTiYLEBlF16OGolJPvpynRNcTE294jrpGxf4Y9UCJZzu4b\nxuhSdip3ih79hDVGW/dKN6NBS7P0dS/8Gg0WA3vuY6+5L7rK6dDS3LluC4D5yLJF\nAWYIhuxZz7BrN24/qlHqFHY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "accesttopricedata@valid-perigee-386815.iam.gserviceaccount.com",
+  "client_id": "114993232727153759506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accesttopricedata%40valid-perigee-386815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
